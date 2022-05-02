@@ -7,6 +7,7 @@ namespace gitPracticeApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello! I am Amit");
         }
     }
 }
