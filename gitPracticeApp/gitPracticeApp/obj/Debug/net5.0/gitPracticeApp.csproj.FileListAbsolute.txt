@@ -1,0 +1,16 @@
+D:\myPracticeRepo\PracticeRepo\gitPracticeApp\gitPracticeApp\bin\Debug\net5.0\gitPracticeApp.exe
+D:\myPracticeRepo\PracticeRepo\gitPracticeApp\gitPracticeApp\bin\Debug\net5.0\gitPracticeApp.deps.json
+D:\myPracticeRepo\PracticeRepo\gitPracticeApp\gitPracticeApp\bin\Debug\net5.0\gitPracticeApp.runtimeconfig.json
+D:\myPracticeRepo\PracticeRepo\gitPracticeApp\gitPracticeApp\bin\Debug\net5.0\gitPracticeApp.runtimeconfig.dev.json
+D:\myPracticeRepo\PracticeRepo\gitPracticeApp\gitPracticeApp\bin\Debug\net5.0\gitPracticeApp.dll
+D:\myPracticeRepo\PracticeRepo\gitPracticeApp\gitPracticeApp\bin\Debug\net5.0\ref\gitPracticeApp.dll
+D:\myPracticeRepo\PracticeRepo\gitPracticeApp\gitPracticeApp\bin\Debug\net5.0\gitPracticeApp.pdb
+D:\myPracticeRepo\PracticeRepo\gitPracticeApp\gitPracticeApp\obj\Debug\net5.0\gitPracticeApp.csproj.AssemblyReference.cache
+D:\myPracticeRepo\PracticeRepo\gitPracticeApp\gitPracticeApp\obj\Debug\net5.0\gitPracticeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\myPracticeRepo\PracticeRepo\gitPracticeApp\gitPracticeApp\obj\Debug\net5.0\gitPracticeApp.AssemblyInfoInputs.cache
+D:\myPracticeRepo\PracticeRepo\gitPracticeApp\gitPracticeApp\obj\Debug\net5.0\gitPracticeApp.AssemblyInfo.cs
+D:\myPracticeRepo\PracticeRepo\gitPracticeApp\gitPracticeApp\obj\Debug\net5.0\gitPracticeApp.csproj.CoreCompileInputs.cache
+D:\myPracticeRepo\PracticeRepo\gitPracticeApp\gitPracticeApp\obj\Debug\net5.0\gitPracticeApp.dll
+D:\myPracticeRepo\PracticeRepo\gitPracticeApp\gitPracticeApp\obj\Debug\net5.0\ref\gitPracticeApp.dll
+D:\myPracticeRepo\PracticeRepo\gitPracticeApp\gitPracticeApp\obj\Debug\net5.0\gitPracticeApp.pdb
+D:\myPracticeRepo\PracticeRepo\gitPracticeApp\gitPracticeApp\obj\Debug\net5.0\gitPracticeApp.genruntimeconfig.cache

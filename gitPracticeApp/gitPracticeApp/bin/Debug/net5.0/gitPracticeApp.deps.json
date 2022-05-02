@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "gitPracticeApp/1.0.0": {
+        "runtime": {
+          "gitPracticeApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gitPracticeApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
