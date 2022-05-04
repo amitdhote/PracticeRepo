@@ -8,6 +8,7 @@ namespace gitPracticeApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello! I am Amit");
+            Console.WriteLine("This is my last commit");
         }
     }
 }
